@@ -1,7 +1,12 @@
 import "./App.css";
+import ResponsiveTimeline from "./ResponsiveTimeline";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <ResponsiveTimeline />
+    </>
+  );
 }
 
 export default App;
